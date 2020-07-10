@@ -1,3 +1,6 @@
+![GitHub](https://img.shields.io/github/license/marcelofilipov/filipov-freemasonry-ui)
+![GitHub repo size](https://img.shields.io/github/repo-size/marcelofilipov/filipov-freemasonry-ui)
+
 # FilipovFreemasonryUi
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.1.
